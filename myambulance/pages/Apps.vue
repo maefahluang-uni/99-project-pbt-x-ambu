@@ -45,8 +45,8 @@ export default {
       selectedAddress: "",
       autocomplete: null, // Initialize as null
       markers: [
-        { position: { lng: 99.876470, lat: 20.043806 } },
-        { position: { lng: 99.873938, lat: 20.031244 } }
+        { position: { lng: 99.876471, lat: 20.043806 } },
+        { position: { lng: 99.873038, lat: 20.031244 } }
       ]
     };
   },
