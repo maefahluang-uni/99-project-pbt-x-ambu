@@ -3,7 +3,7 @@
     <div class="cards">
       <DepartmentCard />
 
-      <!-- More cards -->
+      
     </div>
   
 </template>
